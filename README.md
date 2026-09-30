@@ -2,7 +2,7 @@
 
 Analytics test assignment completed using SQL and Python.
 
-#### Tasks Covered
+### Tasks Covered
 MAU
 DAU
 D1 Retention
@@ -22,6 +22,7 @@ Python
 Jupyter Notebook
 Pandas
 SciPy
-#### Author
+
+### Author
 
 Iliazbek Tileshbaev

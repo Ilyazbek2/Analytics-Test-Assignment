@@ -1,0 +1,95 @@
+ANALYTICS TEST ASSIGNMENT
+
+Author: Iliazbek Tileshbaev
+
+
+1. MAU
+
+Answer:
+[insert calculated MAU]
+
+
+2. DAU
+
+Answer:
+623
+
+
+3. D1 RETENTION
+
+Answer:
+26.6%
+
+
+4. AVERAGE DAU
+
+Answer:
+[insert calculated value]
+
+
+5. USER CONVERSION
+
+Answer:
+[insert calculated value]
+
+
+6. AVERAGE VIEWED ADVERTS
+
+Answer:
+[insert calculated value]
+
+
+7. NPS
+
+Answer:
+35%
+
+
+8. A/B TEST — ARPU
+
+ARPU was calculated separately for the control and test groups.
+
+The difference between groups should be evaluated using
+statistical significance testing.
+
+
+9. P-VALUE
+
+Correct answer:
+
+There is a 5% probability of obtaining such a result
+or a more extreme result by chance if the null hypothesis
+is true.
+
+
+10. T-TEST
+
+Correct answer:
+
+t-test
+
+
+11. QUARTILES
+
+Correct answer:
+
+Data are divided into four equal parts.
+
+
+12. CONVERSION RATE
+
+Control:
+
+1003 / 100047501 × 100 = 0.1003%
+
+
+Test:
+
+1099 / 100001055 × 100 = 0.1099%
+
+
+Conclusion:
+
+The test group has a higher observed conversion rate.
+Statistical significance should be checked before making
+a final conclusion.
